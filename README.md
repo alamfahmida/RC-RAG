@@ -1,9 +1,10 @@
-# RC-RAG
+ RC-RAG
 
-Code and data for: **Bridging the Long-Tail Gap: Robust Retrieval-Augmented Relation Completion via Multi-Stage Paraphrase Infusion**
+### Bridging the Long-Tail Gap: Robust Retrieval-Augmented Relation Completion via Multi-Stage Paraphrase Infusion
 
-Fahmida Alam, Mihai Surdeanu, Ellen Riloff
+**Fahmida Alam, Mihai Surdeanu, Ellen Riloff**  
+University of Arizona
 
-AACL-IJCNLP 2026 Findings.
+**Findings of AACL-IJCNLP 2026**
 
 Code and data will be added here.
