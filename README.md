@@ -1,5 +1,4 @@
- RC-RAG
-
+# RC-RAG
 ### Bridging the Long-Tail Gap: Robust Retrieval-Augmented Relation Completion via Multi-Stage Paraphrase Infusion
 
 **Fahmida Alam, Mihai Surdeanu, Ellen Riloff**  
